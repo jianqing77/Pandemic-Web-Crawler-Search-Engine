@@ -2,7 +2,7 @@
 
 Welcome to the Pandemic Data Explorer project, an innovative two-stage system designed to harness the power of web crawling and search engine analytics to provide insights into pandemic-related web content. Our project is divided into two primary components:
 
-## 🕷️ Stage 1: Web Crawler (`Stage_1_Web_Crawler`)
+## 🕷️ Stage 1: Web Crawler
 
 This stage focuses on the development of a robust web crawler using Python. Here's what makes our crawler special:
 
@@ -12,7 +12,7 @@ This stage focuses on the development of a robust web crawler using Python. Here
 -   **Ethical Crawling:** Adheres strictly to `robots.txt` guidelines for crawling delays and ensures ethical data collection.
 -   **Natural Language Processing:** Enhances data quality with NLTK-based tokenization and stemming.
 
-## 🔍 Stage 2: Search Engine Analysis (`Stage_2_Search_Engine_Analysis`)
+## 🔍 Stage 2: Search Engine Analysis
 
 In this stage, we turn the crawled data into actionable insights with a custom search engine and analytics dashboard:
 
